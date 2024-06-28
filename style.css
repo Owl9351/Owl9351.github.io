@@ -1,0 +1,99 @@
+/* set up */
+
+body {
+  background-color: #0a0a0a;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+h1 {
+  position: absolute;
+  left: 46%;
+  top: 10%;
+  background-color: hsl(0, 88%, 51%);
+  /* red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#yes-button {
+  height: 5%;
+  width: 5%;
+  position: absolute;
+  left: 57%;
+  top: 20%;
+  background-color: #4CAF50;
+  /* Green */
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+#no-button {
+  height: 5%;
+  width: 5%;
+  position: absolute;
+  left: 40%;
+  top: 20%;
+  background-color: #4CAF50;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.images {
+  height: 20%;
+}
+
+
+#img1 {
+  position: absolute;
+  left: 12%;
+  top: 15%
+}
+
+#img2 {
+  position: absolute;
+  left: 22%;
+  top: 40%
+}
+
+#img3 {
+  position: absolute;
+  left: 12%;
+  top: 65%
+}
+
+#img4 {
+  position: absolute;
+  left: 66%;
+  top: 15%
+}
+
+#img5 {
+  position: absolute;
+  left: 82%;
+  top: 40%
+}
+
+#img6 {
+  position: absolute;
+  left: 66%;
+  top: 65%
+}
